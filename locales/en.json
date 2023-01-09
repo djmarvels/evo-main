@@ -1,0 +1,138 @@
+{
+  "header": {
+    "menu": [
+      { "label": "Products", "type": "dropdown", "key": "products",
+        "children": [
+          { "type": "link", "label": "Product Link 1",  "to": "/" },
+          { "type": "link", "label": "Product Link 2",  "to": "/" },
+          { "type": "link", "label": "Product Link 3",  "to": "/" }
+        ]
+      },
+      { "label": "Enterprice", "type": "dropdown", "key": "enterprice",
+        "children": [
+          { "type": "link", "label": "Enterprice Link 1",  "to": "/" },
+          { "type": "link", "label": "Enterprice Link 2",  "to": "/" },
+          { "type": "link", "label": "Enterprice Link 3",  "to": "/" }
+        ]
+      },
+      { "label": "Company", "type": "dropdown", "key": "company",
+        "children": [
+          { "type": "link", "label": "Company Link 1",  "to": "/" },
+          { "type": "link", "label": "Company Link 2",  "to": "/" },
+          { "type": "link", "label": "Company Link 3",  "to": "/" }
+        ]
+      },
+      { "label": "Blog", "type": "link", "key": "blog", "to": "/" },
+      { "type": "link", "label": "FAQ", "key": "faq", "to": "/" },
+      { "type": "link", "label": "Support", "key": "support", "to": "/" }
+    ],
+    "login": "Log in",
+    "start": "Get Started"
+  },
+  "footer": {
+    "menus": [
+      [
+        { "label": "Crypto Cards", "to": "/" },
+        { "label": "Virtual Crypto Cards", "to": "/" },
+        { "label": "Internal Wallet", "to": "/" }
+      ],
+      [
+        { "label": "Payment by QR", "to": "/" },
+        { "label": "Terminals", "to": "/" },
+        { "label": "Payment Widget", "to": "/" }
+      ],
+      [
+        { "label": "API for Developers", "to": "/" },
+        { "label": "Mobile Application", "to": "/" },
+        { "label": "Career", "to": "/" }
+      ],
+      [
+        { "label": "Become a Partner", "to": "/" },
+        { "label": "For Investors", "to": "/" },
+        { "label": "Documents", "to": "/" }
+      ]
+    ]
+  },
+  "faq": [
+    {
+      "key": "account",
+      "label": "Account Opening",
+      "items": [
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." }
+      ]
+    },
+    {
+      "label": "Transactions",
+      "key": "transactions",
+      "items": [
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." }
+      ]
+    },
+    {
+      "label": "Business Account",
+      "key": "business",
+      "items": [
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." }
+      ]
+    },
+    {
+      "label": "Secure",
+      "key": "secure",
+      "items": [
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." }
+      ]
+    },
+    {
+      "label": "Deposit",
+      "key": "deposit",
+      "items": [
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." },
+        { "header": "<b>How</b> to Activate <b>EVO</b> Service?", "text": "Customers who open an account through EVO will be automatically enrolled in EVO services and will be able to log in using their EVO E-mail address and password." }
+      ]
+    }
+  ]
+}

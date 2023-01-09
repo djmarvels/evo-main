@@ -1,0 +1,32 @@
+@use 'sass:math';
+
+@mixin exact-height($height) {
+  min-height: $height;
+  height: $height;
+  max-height: $height;
+}
+
+@mixin exact-width($width) {
+  min-width: $width;
+  width: $width;
+  max-width: $width;
+}
+
+@mixin exact-size($width, $height) {
+  min-width: $width;
+  width: $width;
+  max-width: $width;
+
+  min-height: $height;
+  height: $height;
+  max-height: $height;
+}
+
+
+
+@function vw($px-vw, $base-vw: 1920px) {
+  @return math.div($px-vw * 100vw, $base-vw);
+}
+@function vh($px-vw, $base-vw: 1080px) {
+  @return math.div($px-vw * 100vh, $base-vw);//
+}
